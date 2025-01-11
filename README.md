@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming related to function scope.  The `bug.hs` file contains code that attempts to use an undefined function, `square`. The `bugSolution.hs` file shows how to fix this error by either defining the function or importing it from a module.
